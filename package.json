@@ -1,0 +1,11 @@
+{
+  "name": "mern-crud-main",
+  "version": "1.0.0",
+  "description": "MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
